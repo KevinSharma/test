@@ -1,0 +1,40 @@
+git init
+git add .
+git commit -m "adding files"
+clear
+mkdir gittest
+cd gittest/
+touch index.html
+ls
+git init
+git add .
+git commit -m "adding all"
+git remote add origin https://github.com/KevinSharma/gittest.git
+git commit origin master
+touch styles.css aboutMe.txt
+git status
+git add .
+git status
+git commit -m 'Three new files to add'
+vim aboutMe.txt 
+git status
+git .
+git add .
+git status
+git commit -m 'updated aboutMe'
+vim aboutMe.txt 
+git status
+git add aboutMe.txt 
+git status
+git commit - m 'added favorite movie to aboutMe'
+git commit -m 'added favorite movie to aboutMe'
+git status
+git log
+git revert -n 57e2a1a192898
+git status
+vim aboutMe.txt 
+git status
+git add aboutMe.txt 
+git status
+git commit -m 'updated aboutMe.txt with favorite book'
+git status
