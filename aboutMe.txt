@@ -1,1 +1,1 @@
- Hi my name is Kevin. I am really enjoying learning about git and how to use github. I enjoy playing and watching sports. Before the CodingDojo bootcamp i was learning how to play the guitar. My favorite movie is Dark Knight.
+Hi my name is Kevin. I am really enjoying learning about git and how to use github. I enjoy playing and watching sports. Before the CodingDojo bootcamp i was learning how to play the guitar. My favorite book is Catcher and the Rye.
